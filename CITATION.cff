@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite Portable Rights and preserve the attribution of the projects in its research lineage."
+
+title: "Portable Rights"
+
+type: software
+
+authors:
+  - family-names: "Santana dos Santos"
+    given-names: "Felipe Gustavo"
+
+version: 0.1.0
+
+date-released: 2026-10-09
+
+license: Apache-2.0
+
+repository-code: "https://github.com/sstm-research/portable_rights"
+
+url: "https://github.com/sstm-research/portable_rights"
+
+abstract: >-
+  Portable Rights is a research evolution of Portable Trust focused on
+  creator rights, artwork provenance, ownership transfers, resale events
+  and interoperable rights infrastructure. It emerged after the Legallery
+  implementation developed during the EAG Global Buildathon in
+  Florianópolis.
+
+keywords:
+  - portable trust
+  - creator rights
+  - artwork provenance
+  - resale rights
+  - direito de sequência
+  - digital identity
+  - verifiable credentials
+  - attestations
+  - Ethereum
+  - physical-digital
+  - artwork passport
+
+references:
+  - type: software
+    title: "Portable Trust"
+    repository-code: "https://github.com/sstm-research/portable_trust"
+    url: "https://github.com/sstm-research/portable_trust"
+
+  - type: software
+    title: "Legallery"
+    repository-code: "https://github.com/Gowdakthegreat/legallery"
+    url: "https://github.com/Gowdakthegreat/legallery"
+
+  - type: software
+    title: "Legallery — SSTM Research preservation fork"
+    repository-code: "https://github.com/sstm-research/legallery"
+    url: "https://github.com/sstm-research/legallery"
